@@ -193,6 +193,13 @@ section{
 .home .back_img .text .btn{
     animation:fadeIn .4s linear backwards .6s;
 }
+.home-about .content{
+    color:white;
+}
+.home-about .content h2{
+    font-weight: bold;
+    font-style: italic;
+}
 .text .btn_discover{
     height: 50px;
     width: 300px;

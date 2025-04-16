@@ -20,7 +20,7 @@
       <a href="home.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
-      <a href="book.php">book</a>
+      <a href="book_form.php">book</a>
     </nav>
     <div id="menu-btn" class="fas fa-bars"></div>
   </section>
@@ -42,7 +42,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -54,7 +54,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -66,7 +66,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -78,7 +78,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -90,7 +90,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -102,7 +102,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -114,7 +114,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -126,7 +126,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -138,7 +138,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -150,7 +150,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -162,7 +162,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
 
@@ -174,7 +174,7 @@
           <h3>adventure & tour</h3>
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. At dolor voluptates fugiat velit, ipsum laboriosam corporis omnis! Natus ex cupiditate cumque asperiores culpa voluptatem ab quas facilis, tenetur molestias earum?
           </p>
-          <div class="book_btn"><a href="book.php">book now</a></div>
+          <div class="book_btn"><a href="book_form.php">book now</a></div>
         </div>
       </div>
     </div>
@@ -189,7 +189,7 @@
           <a href="home.php"><i class="fas fa-angle-right"></i>home</a>
           <a href="about.php"><i class="fas fa-angle-right"></i>about</a>
           <a href="package.php"><i class="fas fa-angle-right"></i>packages</a>
-          <a href="book.php"><i class="fas fa-angle-right"></i>book</a>
+          <a href="book_form.php"><i class="fas fa-angle-right"></i>book</a>
         </div>
 
         <div class="footer_box">

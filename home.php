@@ -23,7 +23,7 @@
             <a href="home.php">home</a>
             <a href="about.php">about</a>
             <a href="package.php">packages</a>
-            <a href="book.php">book</a>
+            <a href="book_form.php">book</a>
         </nav>
         <div id="menu-btn" class="fas fa"></div>
     </section>
@@ -120,7 +120,10 @@
 
         <div class="content">
             <h3>about us</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui id odio architecto officia vel hic dicta, quae eius amet error nam rerum consequuntur quibusdam excepturi molestiae iste dolores placeat sint?</p>
+            <br>
+            <h2>Welcome to Trip Planner – Your Smart Travel Companion!</h2>
+            <p> At Trip Planner, we believe that planning a trip should be just as exciting as the journey itself. Whether you're heading out for a weekend getaway, a cross-country road trip, or an international adventure, our goal is to simplify your travel planning experience from start to finish.
+            </p>
             <a href="about.php" class="btn">read more</a>
         </div>
     </section>
@@ -140,7 +143,7 @@
                 <div class="content">
                     <h3>adventure & tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, animi voluptatibus. Blanditiis assumenda maiores voluptates ab quaerat, hic, nisi soluta vel, aperiam dolores quae consequuntur culpa quibusdam nulla aliquam quo!</p>
-                    <a href="book.php" class="btn">book now</a>
+                    <a href="book_form.php" class="btn">book now</a>
                 </div>
             </div>
 
@@ -151,7 +154,7 @@
                 <div class="content">
                     <h3>adventure & tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, animi voluptatibus. Blanditiis assumenda maiores voluptates ab quaerat, hic, nisi soluta vel, aperiam dolores quae consequuntur culpa quibusdam nulla aliquam quo!</p>
-                    <a href="book.php" class="btn">book now</a>
+                    <a href="book_form.php" class="btn">book now</a>
                 </div>
             </div>
 
@@ -162,7 +165,7 @@
                 <div class="content">
                     <h3>adventure & tour</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, animi voluptatibus. Blanditiis assumenda maiores voluptates ab quaerat, hic, nisi soluta vel, aperiam dolores quae consequuntur culpa quibusdam nulla aliquam quo!</p>
-                    <a href="book.php" class="btn">book now</a>
+                    <a href="book_form.php" class="btn">book now</a>
                 </div>
             </div>
         </div>
@@ -178,7 +181,7 @@
         <div class="content">
             <h3>upto 50% off</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed itaque libero deleniti natus obcaecati architecto labore eos, error enim deserunt optio facere praesentium eum nesciunt aliquid amet ut mollitia! Ipsam?</p>
-            <a href="book.php" class="btn">book now</a>
+            <a href="book_form.php" class="btn">book now</a>
         </div>
 
     </section>
@@ -193,7 +196,7 @@
                 <a href="home.php"><i class="fas fa-angle-right"></i>home</a>
                 <a href="about.php"><i class="fas fa-angle-right"></i>about</a>
                 <a href="package.php"><i class="fas fa-angle-right"></i>packages</a>
-                <a href="book.php"><i class="fas fa-angle-right"></i>book</a>
+                <a href="book_form.php"><i class="fas fa-angle-right"></i>book</a>
             </div>
 
             <div class="footer_box">
